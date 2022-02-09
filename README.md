@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 
 ![cksals3753's github stats](https://github-readme-stats.vercel.app/api?username=cksals3753&show_icons=true)
 [![cksals3753's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cksals3753&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/cksals3753)
+
+
+ <div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+	
+  </div>
