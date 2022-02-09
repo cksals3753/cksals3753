@@ -15,6 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### LANGUAGES
+<br>
+<br>
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
+
+<br>
+<br>
+
 ![cksals3753's github stats](https://github-readme-stats.vercel.app/api?username=cksals3753&show_icons=true)
 [![cksals3753's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cksals3753&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/cksals3753)
 
@@ -25,9 +38,3 @@ Here are some ideas to get you started:
 	
   </div>
 
-### LANGUAGES
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
